@@ -1,7 +1,7 @@
 scikit-learn
 pandas
 jupyter
-keras==3.13.1
+keras==3.15.0
 seaborn
 tables
 
